@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# 忽略 PyInstaller 生成的文件
+build/
+dist/
+*.spec
+
+# macOS 文件
+.DS_Store
